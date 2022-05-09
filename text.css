@@ -1,0 +1,119 @@
+/* Размера текста   */
+.level1 {
+    font-size: 1em;
+}
+
+.level2 {
+    font-size: 1.2em;
+}
+
+.level3 {
+    font-size: 1.4em;
+}
+
+.level4 {
+    font-size: 1.6em;
+}
+
+.level5 {
+    font-size: 1.8em;
+}
+
+.level6 {
+    font-size: 2em;
+}
+
+/*  Атрибуты  */
+.rood {
+    background: #009383;
+    /* color:#fff;
+    /* width: 30%; 
+    /* top: 82px;
+    position: absolute; */
+
+}
+
+/* h1 {color: #CD6829;}
+div {background: rgba(205, 214, 219, 0.3);} */
+header {
+    font-size: 1.4em;
+    background: rgb(181, 201, 200);
+    text-align: center;
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-size: cover;
+    
+
+}
+body {
+    margin: 0;
+    padding: 0;
+    
+    ;
+
+}
+
+P.cite {
+    color: white;
+    background: black;
+    width: fit-content;
+    text-size-adjust: 10em;
+
+}
+
+h1.title {
+    background: white;
+    text-align: center;
+}
+
+B.post {
+    color: wheat;
+}
+
+/* Стили Таблицы */
+Table.jawel {
+    width: 100%;
+    border: 1px solid #666;
+    text-align: center;
+}
+
+th {
+    background: #009383;
+    color: #fff;
+    text-align: center;
+}
+
+
+tr.odd {
+    background: #468be1;
+}
+
+td {
+    background: #009383;
+}
+
+
+
+/* 
+header {
+    width: 10xp;
+} */
+
+
+
+
+/* каскад 2 */
+/* .cats-menu li {
+    margin: 5px 0;
+    font-weight: 700
+} */
+
+
+/* касакад 1 */
+/* .page-body,
+ body {
+    margin: 0;
+    padding: 0
+}  */
